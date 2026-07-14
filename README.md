@@ -1220,14 +1220,6 @@ GitHub:
 
 https://github.com/belioautomation
 
-LinkedIn:
-
-https://www.linkedin.com/in/belioautomation
-
-Email:
-
-[beliosinangote2@gmail.com](mailto:beliosinangote2@gmail.com)
-
 ---
 
 # 📄 License
