@@ -1055,7 +1055,8 @@ CRM-Lead-Automation/
 │   ├── telegram.png
 │   ├── gmail-sales.png
 │   ├── gmail-customer.png
-│   ├── form-ending.png
+│   ├── form-ending(HOT).png
+    ├── form-ending(COLD).png
 │   └── execution.png
 │
 ├── sample-data/
