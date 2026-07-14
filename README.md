@@ -1048,7 +1048,7 @@ CRM-Lead-Automation/
 │   ├── workflow.png
 │   ├── form-trigger.png
 │   ├── edit-fields.png
-│   ├── gemini-output.png
+│   ├── openrouter-output.png
 │   ├── code-node.png
 │   ├── if-node.png
 │   ├── google-sheets.png
